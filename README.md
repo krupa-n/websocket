@@ -1,4 +1,4 @@
-# websocket
+# Kubernetes tail log and stream over websocket
 This repo contains sample websocket client and server program in nodejs.
 This program depicts the functionality of streaming logs(tailing) from a kubernetes sample pod.
 
